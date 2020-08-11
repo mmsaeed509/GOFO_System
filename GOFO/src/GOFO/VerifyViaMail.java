@@ -28,7 +28,7 @@ public class VerifyViaMail {
 
         Session session = Session.getInstance(properties, new javax.mail.Authenticator() {
                     protected PasswordAuthentication getPasswordAuthentication() {
-                        return new PasswordAuthentication("gofos4304@gmail.com", "rody 01116060955 rody");
+                        return new PasswordAuthentication("gofos4304@gmail.com", "ABCD*&%$#@12345");
                     }
 
                 }
