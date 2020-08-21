@@ -1,6 +1,6 @@
 # GOFO_System
 
-software engineering Project
+software engineering Project_FCAI-CU
 
 open project from Intellij IDEA ( recommend )
 if you will run project from another IDE you need two libraries
