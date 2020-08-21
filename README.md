@@ -1,5 +1,7 @@
 # GOFO_System
 
+software engineering Project
+
 open project from Intellij IDEA ( recommend )
 if you will run project from another IDE you need two libraries
 
