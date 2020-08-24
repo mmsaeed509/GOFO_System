@@ -2,7 +2,7 @@
 
 software engineering Project_FCAI-CU
 
-open project from Intellij IDEA ( recommend )
+open project from Intellij IDEA ( recommend ) Download Link : https://www.jetbrains.com/idea/download/#section=linux
 if you will run project from another IDE you need two libraries
 
 1 _ activation.jar
